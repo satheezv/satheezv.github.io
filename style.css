@@ -28,11 +28,11 @@ body {
   }
   
   .profile-pic {
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 130px;
     object-fit: cover;
-    border-radius: 60px;
-    border: 2px solid #555;
+    border-radius: 8px;
+    border: 1.5px solid #555;
   }
   
   h1 {
