@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Multimodal Behaviour Trees for Robotic Laboratory Task Automation"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: "https://doi.org/10.48550/arXiv.2506.20399"
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
