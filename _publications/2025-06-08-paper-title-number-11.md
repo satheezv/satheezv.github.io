@@ -1,0 +1,12 @@
+---
+title: "An Open-source Capping Machine Suitable for Confined Spaces"
+collection: publications
+category: Conference
+permalink: https://doi.org/10.48550/arXiv.2506.03743
+excerpt: 'This paper introduces an open-source capping machine suitable for compact spaces, which also integrates a vision system that recognises capping failure.'
+date: TBC
+venue: 'TAROS 2025, York, UK'
+paperurl: 'TBC , https://arxiv.org/html/2506.03743v1'
+citation: 'Munguia-Galeano, Francisco, Louis Longley, Satheeshkumar Veeramani, Zhengxue Zhou, Rob Clowes, Hatem Fakhruldeen, and Andrew I. Cooper. "An Open-source Capping Machine Suitable for Confined Spaces." arXiv preprint arXiv:2506.03743 (2025).'
+---
+In the context of self-driving laboratories (SDLs), ensuring automated and error-free capping is crucial, as it is a ubiquitous step in sample preparation. Automated capping in SDLs can occur in both large and small workspaces (e.g., inside a fume hood). However, most commercial capping machines are designed primarily for large spaces and are often too bulky for confined environments. Moreover, many commercial products are closed-source, which can make their integration into fully autonomous workflows difficult. This paper introduces an open-source capping machine suitable for compact spaces, which also integrates a vision system that recognises capping failure. The capping and uncapping processes are repeated 100 times each to validate the machine's design and performance. As a result, the capping machine reached a 100 % success rate for capping and uncapping. Furthermore, the machine sealing capacities are evaluated by capping 12 vials filled with solvents of different vapour pressures: water, ethanol and acetone. The vials are then weighed every 3 hours for three days. The machine's performance is benchmarked against an industrial capping machine (a Chemspeed station) and manual capping. The vials capped with the prototype lost 0.54 % of their content weight on average per day, while the ones capped with the Chemspeed and manually lost 0.0078 % and 0.013 %, respectively. The results show that the capping machine is a reasonable alternative to industrial and manual capping, especially when space and budget are limitations in SDLs.
