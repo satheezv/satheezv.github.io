@@ -4,7 +4,7 @@ collection: publications
 category: Conference
 permalink: https://doi.org/10.48550/arXiv.2506.20399
 excerpt: 'Currently, robots can perform these tasks faster than chemists, but how reliable are they? Improper capping could result in human exposure to toxic chemicals which could be fatal.'
-date: TBC
+date: 2025-01-01
 venue: 'International Conference on Robotics and Automation 2025 (ICRA 2025), Atlanta, USA'
 paperurl: 'TBC , https://arxiv.org/html/2506.20399v1'
 citation: 'Fakhruldeen, Hatem, Arvind Raveendran Nambiar, Satheeshkumar Veeramani, Bonilkumar Vijaykumar Tailor, Hadi Beyzaee Juneghani, Gabriella Pizzuto, and Andrew Ian Cooper. "Multimodal Behaviour Trees for Robotic Laboratory Task Automation." arXiv preprint arXiv:2506.20399 (2025).'
