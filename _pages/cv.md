@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-My CV (PDF)
+My CV (PDF Version)
 ======
 
-<iframe src="/files/CV - Satheeshkumar.pdf" width="100%" height="600px"></iframe>
+<iframe src="/files/CV - Satheeshkumar.pdf" width="794" height="1123" style="border:none;"></iframe>
 
 Education
 ======
