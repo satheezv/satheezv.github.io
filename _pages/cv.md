@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+My CV (PDF Version)
+======
+
+<iframe src="/files/CV - Satheeshkumar.pdf" width="794" height="1123" style="border:none;"></iframe>
+
 Education
 ======
 * Ph.D in Robotics and AI assisted Manufacturing, Indian Institute of Information Technology, Chennai, India, 2022 
