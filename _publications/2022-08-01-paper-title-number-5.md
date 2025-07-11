@@ -3,7 +3,7 @@ title: "Hybrid type multi-robot path planning of a serial manipulator and SwarmI
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1007/s40747-021-00499-3
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'A novel offline coordination planner which follows the hierarchical based hybrid type decentralized planning strategy has been proposed. Motion of the serial manipulator and SwarmItFIX robots’ coordinated locomotion are divided into three sub-problems, viz, trajectory planning of serial manipulator, task planning of SwarmItFIX robots, and homogenous prioritized multi-robot path planning of SwarmItFIX robots.'
 date: 2022-08-01
 venue: 'Complex & Intelligent Systems'
 paperurl: 'https://link.springer.com/article/10.1007/s40747-021-00499-3'
