@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics and AI assisted Manufacturing, Indian Institute of Information Technology, Chennai, India, 2022 
+* M.Tech. in Robotics, SRM University, Chennai, India, 2014
+* B.E. in Mechatronics, Anna University, India, 2012
 
 Work experience
 ======
