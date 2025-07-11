@@ -4,7 +4,7 @@ collection: publications
 category: Conference
 permalink: https://doi.org/10.48550/arXiv.2506.03743
 excerpt: 'This paper introduces an open-source capping machine suitable for compact spaces, which also integrates a vision system that recognises capping failure.'
-date: 2025-01-01
+date: 2025-01-02
 venue: 'TAROS 2025, York, UK'
 paperurl: 'TBC , https://arxiv.org/html/2506.03743v1'
 citation: 'Munguia-Galeano, Francisco, Louis Longley, Satheeshkumar Veeramani, Zhengxue Zhou, Rob Clowes, Hatem Fakhruldeen, and Andrew I. Cooper. "An Open-source Capping Machine Suitable for Confined Spaces." arXiv preprint arXiv:2506.03743 (2025).'

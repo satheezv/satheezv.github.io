@@ -12,7 +12,7 @@ main:
   - title: "Home"
     url: /
 
-  - title: "news"
+  - title: "News"
     url: /year-archive/
 
   - title: "Publications"
