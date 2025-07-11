@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement learning based path planning of multiple agents of SwarmItFIX robot for fixturing operation in sheetmetal milling process"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: https://doi.org/10.1177/09544054221080031
 excerpt: 'A novel hierarchical planner is proposed, which employs Monte Carlo and SARSA TD based model-free Reinforcement Learning (RL) algorithms for the computation of locomotion sequences of head and base agents, respectively. '
 date: 2022-10-01

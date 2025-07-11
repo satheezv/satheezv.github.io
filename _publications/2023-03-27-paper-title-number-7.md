@@ -1,7 +1,7 @@
 ---
 title: "Affordance-Based Human–Robot Interaction With Reinforcement Learning"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: https://doi.org/10.1109/ACCESS.2023.3262450
 excerpt: 'In this paper, we propose an affordance-based human-robot interaction (HRI) framework, aiming to reduce the action space size that would considerably impede the exploration efficiency of the agent.'
 date: 2023-03-27

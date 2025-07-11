@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement learning based path planning of the mobile agents with constrained locomotion for the material handling applications"
 collection: publications
-category: Conference
+category: conferences
 permalink: 10.1109/CICT51604.2020.9311923
 excerpt: 'In this work, the Markov Decision Process (MDP) path planning problem of SaD agent is solved using two Reinforcement Learning (RL) based dynamic programming methods viz Policy Iteration (PI), and Value Iteration (VI).'
 date: 2020-12-03

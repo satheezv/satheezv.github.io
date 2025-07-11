@@ -1,7 +1,7 @@
 ---
 title: "Coordination and path planning of a heterogeneous multi-robot system for sheet metal drilling"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: https://doi.org/10.1016/j.procs.2022.09.292
 excerpt: 'A heterogeneous multi-robot coordination methodology that has already been demonstrated to be successful in a milling process has been further enhanced here to make it suitable for a drilling process.'
 date: 2022-10-19

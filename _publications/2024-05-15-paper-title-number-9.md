@@ -1,7 +1,7 @@
 ---
 title: "A 3D-Printed, Low-Cost Solid Dispensing Device for Laboratory Automation"
 collection: publications
-category: Conference workshop paper
+category: conferences
 # permalink: https://doi.org/10.1177/09544054221080031
 # excerpt: 'A novel hierarchical planner is proposed, which employs Monte Carlo and SARSA TD based model-free Reinforcement Learning (RL) algorithms for the computation of locomotion sequences of head and base agents, respectively. '
 date: 2024-05-15

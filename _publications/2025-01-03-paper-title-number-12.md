@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Behaviour Trees for Robotic Laboratory Task Automation"
 collection: publications
-category: Conference
+category: conferences
 permalink: https://doi.org/10.48550/arXiv.2506.20399
 excerpt: 'Currently, robots can perform these tasks faster than chemists, but how reliable are they? Improper capping could result in human exposure to toxic chemicals which could be fatal.'
 date: 2025-01-03

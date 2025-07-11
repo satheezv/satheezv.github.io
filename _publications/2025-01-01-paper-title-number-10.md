@@ -1,7 +1,7 @@
 ---
 title: "LIRA: Localization, Inspection, and Reasoning Module for Autonomous Workflows in Self-Driving Labs"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: https://doi.org/10.21203/rs.3.rs-6148048/v1
 excerpt: 'We introduce LIRA (Localization, Inspection, and Reasoning), which is an edge computing module that enhances robotic decision-making through vision-language models (VLMs). '
 date: 2025-01-01

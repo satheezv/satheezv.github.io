@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence planners for multi-head path planning of SwarmItFIX agents"
 collection: publications
-category: Journal 
+category: manuscripts 
 permalink: https://doi.org/10.1007/s10845-019-01479-8
 excerpt: 'In this work, two different novel planners are proposed which do path planning for the heads of the SwarmItFIX agents.'
 date: 2020-04-15

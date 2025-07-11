@@ -1,7 +1,7 @@
 ---
 title: "Multi-Head Path Planning of SwarmItFIX Agents: A Markov Decision Process Approach"
 collection: publications
-category: Conference
+category: conferences
 permalink: "https://doi.org/10.1007/978-3-030-20131-9_221"
 excerpt: 'In this work, an artificial intelligence technique developed based on Markov Decision Process (MDP) is implemented for the task of multi-head based fixturing suitable for operations such as drilling, milling etc.'
 date: 2019-06-14

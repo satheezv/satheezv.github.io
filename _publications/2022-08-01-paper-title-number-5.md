@@ -1,7 +1,7 @@
 ---
 title: "Hybrid type multi-robot path planning of a serial manipulator and SwarmItFIX robots in sheet metal milling process"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: https://doi.org/10.1007/s40747-021-00499-3
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2022-08-01
