@@ -21,14 +21,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Research Projects"
-    url: /research/
+  # - title: "Research Projects"
+  #   url: /research/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
     
   - title: "CV"
     url: /cv/
