@@ -20,7 +20,7 @@ redirect_from:
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Graphical Abstract</h3>
-  <img src="/images/SA.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
+  <img src="/images/SA.png" alt="" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
 </div>
 
 
