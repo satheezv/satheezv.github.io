@@ -19,5 +19,5 @@ Mobile robotic chemists are a fast growing trend in the field of chemistry and m
 
 <div style="margin-top: 2em;">
   <h3>Video Demonstration - onedrive</h3>
-    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQQdPa8PmSQETaHZGfZzFzyfAYvltJ5SwameaSfs9rAHixM" width="1920" height="1080" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQQdPa8PmSQETaHZGfZzFzyfAYvltJ5SwameaSfs9rAHixM" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
