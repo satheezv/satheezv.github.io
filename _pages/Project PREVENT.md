@@ -62,6 +62,10 @@ Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Mungui
 
 
 
+
+<!-- Page Visits -->
 <div style="display: flex; justify-content: center; margin-top: 1em;">
-  <a href="https://hits.sh/satheezv.github.io/"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&color=0220f8&labelColor=af11af"/></a>
-</div>
+  <a href="https://hits.sh/satheezv.github.io/"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits"/></a>
+</div> 
+
+<!-- https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits -->
