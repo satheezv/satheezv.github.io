@@ -11,12 +11,12 @@ redirect_from:
 
 <p><strong>PREVENT: Proactive Risk Evaluation and Vigilant Execution of Navigation and Manipulation Tasks for Mobile Robotic Chemists</strong></p>
 
-
+<div style="text-align: center;">
 <strong>Authors:</strong> Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Munguia-Galeano<sup>1</sup>, Hatem Fakhruldeen<sup>1</sup>, Thomas Roddelkopf<sup>2</sup>, Mohammed Faeik Ruzaij Al-Okby<sup>2</sup>, Kerstin Thurow<sup>2</sup>, Andrew Ian Cooper<sup>1,*</sup>.
-
+</div>
 
 <div style="text-align: center;">
-  <p><sup>1</sup>Department of Chemistry and Materials Innovation Factory, University of Liverpool, Liverpool, United Kingdom; <sup>2</sup>Automation Technology Institute and Center for Life Science Automation (CELISCA), University of Rostock, Rostock, Germany</p>
+  <p><sup>1</sup>Department of Chemistry and Materials Innovation Factory, University of Liverpool, Liverpool, United Kingdom; <sup>2</sup>Automation Technology Institute and Center for Life Science Automation, University of Rostock, Rostock, Germany</p>
 </div>
 
 
