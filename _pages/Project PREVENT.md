@@ -62,6 +62,6 @@ redirect_from:
 
 
 
-<div style="center;">
+<div style="display: flex; justify-content: center; margin-top: 1em;">
   <a href="https://hits.sh/satheezv.github.io/"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&color=0220f8&labelColor=af11af"/></a>
 </div>
