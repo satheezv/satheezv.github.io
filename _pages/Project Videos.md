@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research Projects"
-permalink: /research/
+title: "Project PREVENT"
+permalink: /research/PREVENT
 author_profile: true
 redirect_from:
   - /resume
@@ -15,7 +15,6 @@ Mobile robotic chemists are a fast growing trend in the field of chemistry and m
 
 Authors: Satheeshkumar Veeramani, Zhengxue Zhou, Francisco Munguia-Galeano, Hatem Fakhruldeen, Thomas Roddelkopf, Mohammed Faeik Ruzaij Al-Okby, Kerstin Thurow, Andrew Ian Cooper (2025).
 
-======
 
 <!-- Video Frame -->
 <div style="margin-top: 2em;">
