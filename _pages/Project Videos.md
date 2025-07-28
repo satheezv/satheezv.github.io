@@ -19,7 +19,7 @@ Mobile robotic chemists are a fast growing trend in the field of chemistry and m
 <!-- Video Frame -->
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Coordinated Inspection and Navigation (CIN) Skill</h3>
-  <img src="images/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
+  <img src="/images/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
 </div>
 
 <div style="margin-top: 2em;">
@@ -34,7 +34,7 @@ Mobile robotic chemists are a fast growing trend in the field of chemistry and m
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Inspection Before Manipulation (IBM) Skill</h3>
-  <img src="images/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
+  <img src="/images/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
 </div>
 
 <div style="margin-top: 2em;">
