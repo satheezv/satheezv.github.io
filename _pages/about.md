@@ -23,4 +23,4 @@ My career aspiration is to become an expert in the field of Robotics & AI.
 
 Thanks, and regards,
 
-<img src="/images/sign.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
+<img src="/images/sign.png" alt="Behavior Tree for Safe Navigation" style="max-width: 25%; height: auto;">
