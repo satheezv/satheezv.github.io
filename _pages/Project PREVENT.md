@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "Project PREVENT (2025)"
 permalink: /projects/PREVENT
 author_profile: true
@@ -24,14 +24,14 @@ Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Mungui
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Graphical Abstract</h3>
-  <img src="/images/SA.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/images/PREVENT/SA.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 
 <!-- Video Frame -->
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Coordinated Inspection and Navigation (CIN) Skill</h3>
-  <img src="/images/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
+  <img src="/images/PREVENT/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="margin-top: 2em;">
@@ -46,7 +46,7 @@ Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Mungui
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Inspection Before Manipulation (IBM) Skill</h3>
-  <img src="/images/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
+  <img src="/images/PREVENT/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="margin-top: 2em;">
@@ -65,7 +65,7 @@ Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Mungui
 
 <!-- Page Visits -->
 <div style="display: flex; justify-content: center; margin-top: 1em;">
-  <a href="https://hits.sh/satheezv.github.io/"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits"/></a>
+  <a href="https://hits.sh/satheezv.github.io/projects/PREVENT"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits"/></a>
 </div> 
 
 <!-- https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits -->
