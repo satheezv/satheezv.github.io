@@ -12,7 +12,7 @@ redirect_from:
 <p><strong>GenCo: A Dual LVLM Generate-Correct Framework for Adaptive Peg-in-Hole Robotics</strong></p>
 
 <div style="text-align: center;">
-Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Hatem Fakhruldeen<sup>1</sup>, Seda Uyanik<sup></sup>, Andrew Ian Cooper<sup>1,*</sup>.
+Zhengxue Zhou<sup>1</sup>, <strong>Satheeshkumar Veeramani</strong><sup>1</sup>, Hatem Fakhruldeen<sup>1</sup>, Seda Uyanik<sup></sup>, Andrew Ian Cooper<sup>1,*</sup>.
 </div>
 
 <div style="text-align: center;">
