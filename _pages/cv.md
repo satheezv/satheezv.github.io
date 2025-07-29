@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-My CV (PDF Version)
-======
-
-<iframe src="/files/CV - Satheeshkumar.pdf" width="794" height="1123" style="border:none;"></iframe>
-
 Education
 ======
 * Ph.D in Robotics and AI assisted Manufacturing, Indian Institute of Information Technology, Chennai, India, 2022 
@@ -22,20 +17,31 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb. 2023 - Present: Research Associate - Robotics
+  * University of Liverpool, United Kingdom
+  * Duties
+    * To carry out state of the art research in one or more of these areas: Robotic System Design and Architecture, Mobile Robotic Navigation, Robotic Manipulation.
+    * Devise robust strategies for integrating mobile robots with laboratory hardware and instrumentation.
+    * Collaborating with our robotics and chemistry teams to build the highest quality robotic system product possible while following software practices that produce maintainable code
+  * Supervisor: Professor Andy Cooper, FRS
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec. 2021 - Jan. 2023: Research Associate - Robotics
+  * Cardiff University, United Kingdom
+  * Duties
+    * To generate research output, provide support and contribute to the development of independent and original ideas as appropriate.
+    * To provide effective management of the Human-Robot Interactions Lab and organise the research activities in the lab.
+    * To maintain and update area of specialist knowledge, researching and critically appraising relevant literature within the area.
+    * To attend and or present at relevant conferences/seminars at a local and national level as required.
+  * Supervisor: Professor Rossi Setchi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2018 - Nov. 2021: Research and Teaching Assistant - Robotics and AI Assisted Manufacturing Automation
+  * Indian Inst. of Information Technology, Design and Manufacturing, Kancheepuram, India
+  * Duties
+    * To generate research output, provide support and contribute to the development of independent and original ideas as appropriate.
+    * To maintain and update area of specialist knowledge, researching and critically appraising relevant literature within the area.
+    * To attend and or present at relevant conferences/seminars at a local and national level as required.
+    * To conduct lab sessions on Robotics for Undergraduate and Post graduate students.
+  * Supervisor: Professor M Sreekumar
   
 Skills
 ======
@@ -67,3 +73,9 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+My CV (downlodable pdf Version)
+======
+
+<iframe src="/files/CV - Satheeshkumar.pdf" width="794" height="1123" style="border:none;"></iframe>
