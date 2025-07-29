@@ -22,4 +22,5 @@ My career aspiration is to become an expert in the field of Robotics & AI.
 <!-- I firmly believe that securing this Lectureship position at a reputed institution like University of York would significantly enhance my technical and professional capabilities, ultimately involve in state-of-the-art robotics research. I am genuinely enthusiastic about this opportunity and would be immensely grateful for the chance to engage in a discussion regarding how my experience and proficiency in robotics research can complement the requirements of this position. My curriculum vitae, which includes a comprehensive list of my publications, is attached with the application for your kind consideration.  -->
 
 Thanks, and regards,
+
 <img src="/images/sign.png" alt="Behavior Tree for Safe Navigation" style="max-width: 40%; height: auto;">

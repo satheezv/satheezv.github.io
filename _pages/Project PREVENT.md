@@ -24,14 +24,14 @@ Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Mungui
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Graphical Abstract</h3>
-  <img src="/images/SA.png" alt="" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
+  <img src="/images/SA.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 
 <!-- Video Frame -->
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Coordinated Inspection and Navigation (CIN) Skill</h3>
-  <img src="/images/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
+  <img src="/images/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="margin-top: 2em;">
@@ -46,7 +46,7 @@ Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Mungui
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Inspection Before Manipulation (IBM) Skill</h3>
-  <img src="/images/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto; border: 1px solid #ccc;">
+  <img src="/images/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="margin-top: 2em;">
