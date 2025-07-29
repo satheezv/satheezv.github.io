@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 <div style="text-align: center;">
-  <p><sup>1</sup>Department of Chemistry and Materials Innovation Factory, University of Liverpool, Liverpool, United Kingdom.
+  <p><sup>1</sup>Department of Chemistry and Materials Innovation Factory, University of Liverpool, Liverpool, United Kingdom.</p>
 </div>
 
 

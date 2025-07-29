@@ -9,32 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-<p><strong>PREVENT: Proactive Risk Evaluation and Vigilant Execution of Navigation and Manipulation Tasks for Mobile Robotic Chemists</strong></p>
+<p><strong>GenCo: A Dual LVLM Generate-Correct Framework for Adaptive Peg-in-Hole Robotics</strong></p>
 
 <div style="text-align: center;">
-Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Munguia-Galeano<sup>1</sup>, Hatem Fakhruldeen<sup>1</sup>, Thomas Roddelkopf<sup>2</sup>, Mohammed Faeik Ruzaij Al-Okby<sup>2</sup>, Kerstin Thurow<sup>2</sup>, Andrew Ian Cooper<sup>1,*</sup>.
+Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Hatem Fakhruldeen<sup>1</sup>, Seda Uyanik<sup></sup>, Andrew Ian Cooper<sup>1,*</sup>.
 </div>
 
 <div style="text-align: center;">
-  <p><sup>1</sup>Department of Chemistry and Materials Innovation Factory, University of Liverpool, Liverpool, United Kingdom; <sup>2</sup>Automation Technology Institute and Center for Life Science Automation, University of Rostock, Rostock, Germany</p>
+  <p><sup>1</sup>Department of Chemistry and Materials Innovation Factory, University of Liverpool, Liverpool, United Kingdom</p>
 </div>
 
-
-<p><em> Mobile robotic chemists are a fast growing trend in the field of chemistry and materials research. However, so far these mobile robots lack workflow awareness skills. This poses the risk that even a small anomaly, such as an improperly capped sample vial could disrupt the entire workflow. This wastes time, and resources, and could pose risks to human researchers, such as exposure to toxic materials. Unimodal perception mechanisms can be used to predict anomalies but they often generate excessive false positives. This may halt workflow execution unnecessarily, requiring researchers to intervene and to resume the workflow when no problem actually exists, negating the benefits of autonomous operation. To address this problem, we propose navigation and manipulation skills based on a multimodal Behavior Tree (BT) approach that can be integrated into existing software architectures with minimal modifications. Our approach involves a hierarchical perception mechanism that exploits AI techniques (CNNs and VLMs) and sensory feedback through Dexterous Vision and Navigational Vision cameras and an IoT gas sensor module for execution-related decision-making. Experimental evaluations show that the proposed approach is comparatively efficient and completely avoids both false negatives and false positives when tested in simulated risk scenarios within our robotic chemistry workflow. The results also show that the proposed multi-modal perception skills achieved deployment accuracies that were higher than the average of the corresponding uni-modal skills, both for navigation and for manipulation. </em> </p>
+<p><em> Recent advancements in Large-Vision Language Models (LVLMs) have enhanced their application in robotics, encompassing high-level task planning and low-level action control. Despite their strong performance across various robotic tasks, even for zero-shot scenarios, most LVLM applications remain open-loop, adhering to a plan-and-execute paradigm without mechanisms to assess task completion. To address this limitation, we propose GenCo, a Generate-Correct framework designed to automate a peg-in-hole task using a UR5e robot. This framework integrates an LVLM-based motion generator and motion expert, working collaboratively to refine and correct actions during robotic task execution. Both LVLM agents are fine-tuned using the pre-trained LLaVA, enhancing their adaptability and scaling efficiently to diverse tasks. Our comprehensive experiment demonstrates the adaptiveness of the framework, improving the success rate for the peg-in-hole task by 12.75\% compared to a single LVLM open-loop method. Notably, in unseen scenarios, the success rate for the triangular peg increased by 15\%, and for the random shaped peg by 17\%, underscoring the system's effectiveness in handling novel tasks. Additionally, adaptive testing under varied camera positions demonstrates robust performance, affirming its reliability despite shifts in the visual input. The framework is also designed to be lightweight and efficient, facilitating broader adoption and practical deployment. Access to our code and model is provided here: https://github.com/Zhengxuez/generate\_correct </em> </p>
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Graphical Abstract</h3>
-  <img src="/images/SA.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/images/GenCo/GA.jpg" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 
 <!-- Video Frame -->
 <div style="text-align: center; margin-top: 2em;">
-  <h3>Figure: Coordinated Inspection and Navigation (CIN) Skill</h3>
-  <img src="/images/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
+  <h3>Figure: Proposed Approach</h3>
+  <img src="/images/GenCo/GA.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
 </div>
 
-<div style="margin-top: 2em;">
+<!-- <div style="margin-top: 2em;">
   <h3>Video Demonstration - CIN 1</h3>
     <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQRCXLF8M7hAQYEgHnfyiz2rAYtVYlFK64c4-es-mzweBN4" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -58,14 +57,14 @@ Satheeshkumar Veeramani<sup>1</sup>, Zhengxue Zhou<sup>1</sup>, Francisco Mungui
   <h3>Video Demonstration - IBM 2</h3>
     <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQT5sb8jj-cBRZsGuOdcQqqOAevDWoG_GYFX7L3UR_JUPe4" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
+ -->
 
 
 
 
 <!-- Page Visits -->
 <div style="display: flex; justify-content: center; margin-top: 1em;">
-  <a href="https://hits.sh/satheezv.github.io/"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits"/></a>
+  <a href="https://hits.sh/satheezv.github.io/projects/GenCo"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits"/></a>
 </div> 
 
 <!-- https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits -->
