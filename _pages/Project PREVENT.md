@@ -36,12 +36,11 @@ redirect_from:
 
 <div style="margin-top: 2em;">
   <h3>Video Demonstration - CIN 1</h3>
-    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQRCXLF8M7hAQYEgHnfyiz2rAYtVYlFK64c4-es-mzweBN4" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQRCXLF8M7hAQYEgHnfyiz2rAYtVYlFK64c4-es-mzweBN4" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
 <div style="margin-top: 2em;">
   <h3>Video Demonstration - CIN 2</h3>
-    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQQdPa8PmSQETaHZGfZzFzyfAYvltJ5SwameaSfs9rAHixM" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQQdPa8PmSQETaHZGfZzFzyfAYvltJ5SwameaSfs9rAHixM" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 <div style="text-align: center; margin-top: 2em;">
@@ -51,12 +50,11 @@ redirect_from:
 
 <div style="margin-top: 2em;">
   <h3>Video Demonstration - IBM 1</h3>
-    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQRA2EldDddMR6gSuMR1E8RGAfxkj_ZP6DO44FB_ac1o1W8" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQRA2EldDddMR6gSuMR1E8RGAfxkj_ZP6DO44FB_ac1o1W8" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
 <div style="margin-top: 2em;">
   <h3>Video Demonstration - IBM 2</h3>
-    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQT5sb8jj-cBRZsGuOdcQqqOAevDWoG_GYFX7L3UR_JUPe4" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQT5sb8jj-cBRZsGuOdcQqqOAevDWoG_GYFX7L3UR_JUPe4" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 
