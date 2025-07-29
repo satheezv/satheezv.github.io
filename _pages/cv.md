@@ -45,12 +45,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robotics & AI in safety-critical environments
+  * Multi-modal perception
+  * LLMs, VLMs, CNNs and RL
+  * Decision trees
+* Robotic chemists and Self-driving labs
+  * Workflow automation
+  * Software architecture development
+  * Standad and bespoke hardware integration
+  * Robot Operating Systems
+* Human-Robot Interaction and Sim2Real
 
 Publications
 ======
