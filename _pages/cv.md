@@ -42,7 +42,16 @@ Work experience
     * To attend and or present at relevant conferences/seminars at a local and national level as required.
     * To conduct lab sessions on Robotics for Undergraduate and Post graduate students.
   * Supervisor: Professor M Sreekumar
-  
+
+* May 2014 - Dec. 2017: Lecturer/Assistant Professor - Robotics and Automation
+  * BIT, Sathymangalam & SKCET, Coimbatore, India.
+  * Duties
+    * To teach students at different levels including foundation, undergraduate and postgraduate students, and to carry out the associated examining processes.
+    * To involve in curriculum development and other activities related to development of new programmes.
+    * Courses handled: Fundamentals of Programming, Introduction to Robotics, Robot Programming, and Industrial Automation and PLC.
+    * To organise the inter-departmental and inter-institute symposiums to promote reputation of the department and Institute.
+    * To provide academic support and pastoral advice to undergraduate and postgraduate students.
+
 Skills
 ======
 * Robotics & AI in safety-critical environments
