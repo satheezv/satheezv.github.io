@@ -1,11 +1,11 @@
 ---
 title: 'ICRA 2025 Atlanta'
 date: 2025-05-19
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2025/01/ICRA/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - ICRA 2025
+  - Atlanta, USA
+  - Cool Robotics Stuff
 ---
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7331838758465527808?collapsed=1" height="879" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
