@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Project PREVENT (2025)"
-permalink: /projects/PREVENT
+title: "Project GenCo (2025)"
+permalink: /projects/GenCo
 author_profile: true
 redirect_from:
   - /resume

@@ -15,14 +15,14 @@ main:
   - title: "Updates"
     url: /year-archive/
 
+  - title: "Research Projects"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
-
-  # - title: "Research Projects"
-  #   url: /research/
 
   - title: "Teaching"
     url: /teaching/    
@@ -36,5 +36,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
