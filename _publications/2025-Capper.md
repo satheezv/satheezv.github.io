@@ -2,7 +2,7 @@
 title: "An Open-source Capping Machine Suitable for Confined Spaces"
 collection: publications
 category: conferences
-permalink: https://doi.org/10.48550/arXiv.2506.03743
+permalink: https://arxiv.org/pdf/2506.03743
 excerpt: 'This paper introduces an open-source capping machine suitable for compact spaces, which also integrates a vision system that recognises capping failure.'
 date: 2025-01-02
 venue: 'TAROS 2025, York, UK'
