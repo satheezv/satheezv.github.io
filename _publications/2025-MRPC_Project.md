@@ -1,5 +1,5 @@
 ---
-title: "The Mobile Robot Process Chemist"
+title: "The Mobile Robotic Process Chemist"
 collection: publications
 category: manuscripts
 permalink: 
