@@ -2,7 +2,7 @@
 title: "GenCo: A Dual LVLM Generate-Correct Framework for Adaptive Peg-in-Hole Robotics"
 collection: publications
 category: conferences
-permalink: TBC
+permalink: /publications/GenCo
 excerpt: ' we propose GenCo, a Generate-Correct framework designed to automate a peg-in-hole task using a UR5e robot. This framework integrates an LVLM-based motion generator and motion expert, working collaboratively to refine and correct actions during robotic task execution.'
 date: 2025-01-04
 venue: 'International Conference on Robotics and Automation 2025 (ICRA 2025), Atlanta, USA'

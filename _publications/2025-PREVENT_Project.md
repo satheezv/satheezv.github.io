@@ -2,7 +2,7 @@
 title: "PREVENT: Proactive Risk Evaluation and Vigilant Execution of Navigation and Manipulation Tasks for Mobile Robot Chemists"
 collection: publications
 category: manuscripts
-permalink: 
+permalink: /publications/PREVENT
 excerpt: 'we propose navigation and manipulation skills based on a multimodal Behavior Tree (BT) approach that can be integrated into existing software architectures with minimal modifications. Our approach involves a hierarchical perception mechanism that exploits AI techniques (CNNs and VLMs) and sensory feedback through Dexterous Vision and Navigational Vision cameras and an IoT gas sensor module for execution-related decision-making.'
 date: 2025-01-01
 venue: 'Under Review in RAL'
