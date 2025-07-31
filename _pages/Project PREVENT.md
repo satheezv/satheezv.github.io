@@ -58,12 +58,16 @@ redirect_from:
 </div>
 
 
-<!-- repo link -->
-<a href="https://github.com/satheezv/PREVENT.git" target="_blank" style="text-decoration: none; color: #333;">
-  <i class="fab fa-github" style="font-size: 1.5em; vertical-align: middle;"></i>
-  <span style="margin-left: 8px; font-size: 1.1em;">View Code on GitHub</span>
-</a>
 
+
+
+<!-- repo link -->
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://github.com/YourUsername/YourRepository" target="_blank" style="text-decoration: none; color: #333;">
+    <i class="fab fa-github" style="font-size: 1.8em; vertical-align: middle;"></i>
+    <span style="margin-left: 8px; font-size: 1.2em;">View Code on GitHub</span>
+  </a>
+</div>
 
 
 <!-- Page Visits -->
