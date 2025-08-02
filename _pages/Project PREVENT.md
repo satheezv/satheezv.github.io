@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 <div style="text-align: center;">
-  <p><em> <sup>1</sup>Department of Chemistry and Materials Innovation Factory, University of Liverpool, Liverpool, United Kingdom; <sup>2</sup>Automation Technology Institute and Center for Life Science Automation, University of Rostock, Rostock, Germany</em></p>
+  <p><em> <sup>1</sup>Department of Chemistry and Materials Innovation Factory, University of Liverpool, Liverpool, United Kingdom; <sup>2</sup>Center for Life Science Automation (CELISCA), University of Rostock, Rostock, Germany</em></p>
 </div>
 
 
