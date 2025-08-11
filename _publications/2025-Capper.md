@@ -13,4 +13,4 @@ In the context of self-driving laboratories (SDLs), ensuring automated and error
 
 
 
-<p style="text-align: center;"><a href="https://arxiv.org/pdf/2506.03743"> click here</a>to download the paper</p>
+<p style="text-align: center;"><a href="https://arxiv.org/pdf/2506.03743"> click here</a>to download the preprint</p>

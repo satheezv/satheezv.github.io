@@ -6,6 +6,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<div style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px;">
+  <style>
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .career-statement {
+      font-size: 1.1rem;
+      max-width: 700px;
+      margin: 0 auto;
+      animation: fadeInUp 1s ease forwards;
+    }
+    .career-highlight {
+      background-image: linear-gradient(currentColor, currentColor);
+      background-position: 0 100%;
+      background-repeat: no-repeat;
+      background-size: 0% 2px;
+      transition: background-size 0.8s ease;
+      padding-bottom: 2px;
+    }
+    .career-statement:hover .career-highlight {
+      background-size: 100% 2px;
+    }
+  </style>
+  <p class="career-statement">
+    I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
+    <span class="career-highlight">research positions within industry</span>.
+  </p>
+</div>
+
+
 Hi, 
 
 <p style="text-align: justify;"> I am Satheesh, currently working as a Research Associate - Robotics in the Cooper Group at the Materials Innovation Factory, University of Liverpool, United Kingdom. My primary focus revolves around a groundbreaking project <em>"Mobile Robotic Process Chemist"</em> for self-driving labs. This innovative research conducted by our team of interdisciplinary researchers under the expert guidance of Professor Andy Cooper. My role in this project is to integrate various standard chemistry equipment with KUKA mobile robot using ROS, Socket and our inhouse software frameworks ARChemist and Robot-chemist. I'm also excited to mention that this project consortium includes PFIZER, ASTRAZENICA, GSK UK, SYNGENTA, and The University of Liverpool. This collaborative effort promises to bring substantial advancements to the field.</p>
