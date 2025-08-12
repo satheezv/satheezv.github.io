@@ -7,22 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-<div id="career-container" style="text-align:center; padding: 1.5rem; background: #03133cff; color: #f18188ff; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
+<div id="career-container" 
+     style="display:inline-block;
+            background: #03133cff; 
+            color: #f18188ff; 
+            font-family: system-ui, sans-serif; 
+            border-radius: 8px; 
+            opacity:0; 
+            transform: translateY(4px);
+            max-width: 500px; 
+            margin: 0 auto;">
   <style>
-  @keyframes fadeInScale {
-  from {
-    opacity: 0;
-    transform: scale(0.2);
-  }
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
+    @keyframes fadeInScale {
+      from {
+        opacity: 0;
+        transform: scale(0.95);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
     .career-statement {
-      font-size: 1.1rem;
-      max-width: 700px;
-      margin: 0 auto;
+      font-size: 1rem;
+      margin: 0; /* no extra space above/below */
+      padding: 0.25rem 0.5rem; /* minimal space inside */
+      line-height: 1.3; /* tightens vertical spacing */
     }
     .career-highlight {
       background-image: linear-gradient(currentColor, currentColor);
@@ -38,17 +48,19 @@ redirect_from:
   </style>
   <p class="career-statement">
     I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
-    <span class="career-highlight">research positions within industry</span>.</p>
+    <span class="career-highlight">research positions within industry</span>.
+  </p>
 </div>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     var el = document.getElementById("career-container");
     if (el) {
-      el.style.animation = "fadeInScale 0.8s ease-out forwards";
+      el.style.animation = "fadeInScale 0.6s ease-out forwards";
     }
   });
 </script>
+
 
 
 
