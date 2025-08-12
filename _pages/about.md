@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px;">
+<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
   <style>
     @keyframes fadeInUp {
       from { opacity: 0; transform: translateY(12px); }
@@ -16,7 +16,6 @@ redirect_from:
       font-size: 1.1rem;
       max-width: 700px;
       margin: 0 auto;
-      animation: fadeInUp 1s ease forwards;
     }
     .career-highlight {
       background-image: linear-gradient(currentColor, currentColor);
@@ -35,6 +34,13 @@ redirect_from:
     <span class="career-highlight">research positions within industry</span>.
   </p>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var el = document.getElementById("career-container");
+    el.style.animation = "fadeInUp 1s ease forwards";
+  });
+</script>
 
 
 Hi, 
