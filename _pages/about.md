@@ -7,22 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px;">
+<div style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; max-width: 600px; margin:auto;">
   <style>
     .typing-container {
       display: inline-block;
       font-size: 1.1rem;
-      white-space: nowrap;
       overflow: hidden;
       border-right: 2px solid #3b82f6; /* caret */
       animation: typing 6s steps(70, end), blink 0.75s step-end infinite;
+      white-space: normal; /* allow line break */
+      word-wrap: break-word;
     }
     @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
+      from { max-width: 0; }
+      to { max-width: 100%; }
     }
     @keyframes blink {
-      from, to { border-color: transparent }
+      from, to { border-color: transparent; }
       50% { border-color: #3b82f6; }
     }
   </style>
