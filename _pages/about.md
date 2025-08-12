@@ -9,33 +9,28 @@ redirect_from:
 
 <div style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px;">
   <style>
-    @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(12px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .career-statement {
+    .typing-container {
+      display: inline-block;
       font-size: 1.1rem;
-      max-width: 700px;
-      margin: 0 auto;
-      animation: fadeInUp 1s ease forwards;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 2px solid #3b82f6; /* caret */
+      animation: typing 6s steps(70, end), blink 0.75s step-end infinite;
     }
-    .career-highlight {
-      background-image: linear-gradient(currentColor, currentColor);
-      background-position: 0 100%;
-      background-repeat: no-repeat;
-      background-size: 0% 2px;
-      transition: background-size 0.8s ease;
-      padding-bottom: 2px;
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
     }
-    .career-statement:hover .career-highlight {
-      background-size: 100% 2px;
+    @keyframes blink {
+      from, to { border-color: transparent }
+      50% { border-color: #3b82f6; }
     }
   </style>
-  <p class="career-statement">
-    I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
-    <span class="career-highlight">research positions within industry</span>.
-  </p>
+  <div class="typing-container">
+    I am actively seeking tenure-track opportunities in academia as well as research positions within industry.
+  </div>
 </div>
+
 
 
 Hi, 
