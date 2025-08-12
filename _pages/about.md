@@ -51,7 +51,7 @@ redirect_from:
   @keyframes fadeInScale {
   from {
     opacity: 0;
-    transform: scale(0.98);
+    transform: scale(0.2);
   }
   to {
     opacity: 1;
