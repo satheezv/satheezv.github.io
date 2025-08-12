@@ -46,7 +46,7 @@ redirect_from:
 
 
 
-<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
+<!-- <div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
   <style>
   @keyframes fadeInScale {
   from {
@@ -86,12 +86,12 @@ redirect_from:
     var el = document.getElementById("career-container");
     el.style.animation = "fadeInScale 0.8s ease-out forwards";
   });
-</script>
+</script> -->
 
 
 
 
-<!-- <div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
+<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
   <style>
     @keyframes fadeInOnly {
   from {
@@ -129,7 +129,7 @@ redirect_from:
     var el = document.getElementById("career-container");
     el.style.animation = "fadeInOnly 0.6s ease-out forwards";
   });
-</script> -->
+</script>
 
 
 Hi, 
