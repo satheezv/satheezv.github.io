@@ -43,6 +43,95 @@ redirect_from:
 </script>
 
 
+
+
+
+<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
+  <style>
+  @keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+    .career-statement {
+      font-size: 1.1rem;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    .career-highlight {
+      background-image: linear-gradient(currentColor, currentColor);
+      background-position: 0 100%;
+      background-repeat: no-repeat;
+      background-size: 0% 2px;
+      transition: background-size 0.8s ease;
+      padding-bottom: 2px;
+    }
+    .career-statement:hover .career-highlight {
+      background-size: 100% 2px;
+    }
+  </style>
+  <p class="career-statement">
+    I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
+    <span class="career-highlight">research positions within industry</span>.
+  </p>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var el = document.getElementById("career-container");
+    el.style.animation = "fadeInScale 0.8s ease-out forwards";
+  });
+</script>
+
+
+
+
+<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
+  <style>
+    @keyframes fadeInOnly {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+    .career-statement {
+      font-size: 1.1rem;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    .career-highlight {
+      background-image: linear-gradient(currentColor, currentColor);
+      background-position: 0 100%;
+      background-repeat: no-repeat;
+      background-size: 0% 2px;
+      transition: background-size 0.8s ease;
+      padding-bottom: 2px;
+    }
+    .career-statement:hover .career-highlight {
+      background-size: 100% 2px;
+    }
+  </style>
+  <p class="career-statement">
+    I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
+    <span class="career-highlight">research positions within industry</span>.
+  </p>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var el = document.getElementById("career-container");
+    el.style.animation = "fadeInOnly 0.6s ease-out forwards";
+  });
+</script>
+
+
 Hi, 
 
 <p style="text-align: justify;"> I am Satheesh, currently working as a Research Associate - Robotics in the Cooper Group at the Materials Innovation Factory, University of Liverpool, United Kingdom. My primary focus revolves around a groundbreaking project <em>"Mobile Robotic Process Chemist"</em> for self-driving labs. This innovative research conducted by our team of interdisciplinary researchers under the expert guidance of Professor Andy Cooper. My role in this project is to integrate various standard chemistry equipment with KUKA mobile robot using ROS, Socket and our inhouse software frameworks ARChemist and Robot-chemist. I'm also excited to mention that this project consortium includes PFIZER, ASTRAZENICA, GSK UK, SYNGENTA, and The University of Liverpool. This collaborative effort promises to bring substantial advancements to the field.</p>
