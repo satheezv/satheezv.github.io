@@ -8,20 +8,21 @@ redirect_from:
 ---
 
 <div id="career-container" 
-     style="display:inline-block;
+     style="text-align:center; 
+            padding: 0.5rem 1rem; 
             background: #03133cff; 
             color: #f18188ff; 
             font-family: system-ui, sans-serif; 
-            border-radius: 8px; 
+            border-radius: 12px; 
             opacity:0; 
-            transform: translateY(4px);
+            transform: translateY(12px);
             max-width: 500px; 
-            margin: 0 auto;">
+            margin: 0.5rem auto;">
   <style>
     @keyframes fadeInScale {
       from {
         opacity: 0;
-        transform: scale(0.95);
+        transform: scale(0.9);
       }
       to {
         opacity: 1;
@@ -30,9 +31,7 @@ redirect_from:
     }
     .career-statement {
       font-size: 1rem;
-      margin: 0; /* no extra space above/below */
-      padding: 0.25rem 0.5rem; /* minimal space inside */
-      line-height: 1.3; /* tightens vertical spacing */
+      margin: 0; /* remove extra top/bottom margins */
     }
     .career-highlight {
       background-image: linear-gradient(currentColor, currentColor);
@@ -56,10 +55,11 @@ redirect_from:
   document.addEventListener("DOMContentLoaded", function() {
     var el = document.getElementById("career-container");
     if (el) {
-      el.style.animation = "fadeInScale 0.6s ease-out forwards";
+      el.style.animation = "fadeInScale 0.8s ease-out forwards";
     }
   });
 </script>
+
 
 
 
