@@ -38,8 +38,7 @@ redirect_from:
   </style>
   <p class="career-statement">
     I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
-    <span class="career-highlight">research positions within industry</span>.
-  </p>
+    <span class="career-highlight">research positions within industry</span>.</p>
 </div>
 
 <script>
