@@ -6,47 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
-  <style>
-    @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(12px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .career-statement {
-      font-size: 1.1rem;
-      max-width: 700px;
-      margin: 0 auto;
-    }
-    .career-highlight {
-      background-image: linear-gradient(currentColor, currentColor);
-      background-position: 0 100%;
-      background-repeat: no-repeat;
-      background-size: 0% 2px;
-      transition: background-size 0.8s ease;
-      padding-bottom: 2px;
-    }
-    .career-statement:hover .career-highlight {
-      background-size: 100% 2px;
-    }
-  </style>
-  <p class="career-statement">
-    I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
-    <span class="career-highlight">research positions within industry</span>.
-  </p>
-</div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var el = document.getElementById("career-container");
-    el.style.animation = "fadeInUp 1s ease forwards";
-  });
-</script> -->
-
-
-
-
-
-<!-- <div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
+<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
   <style>
   @keyframes fadeInScale {
   from {
@@ -84,52 +45,12 @@ redirect_from:
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     var el = document.getElementById("career-container");
-    el.style.animation = "fadeInScale 0.8s ease-out forwards";
-  });
-</script> -->
-
-
-
-
-<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
-  <style>
-    @keyframes fadeInOnly {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-    .career-statement {
-      font-size: 1.1rem;
-      max-width: 700px;
-      margin: 0 auto;
+    if (el) {
+      el.style.animation = "fadeInScale 0.8s ease-out forwards";
     }
-    .career-highlight {
-      background-image: linear-gradient(currentColor, currentColor);
-      background-position: 0 100%;
-      background-repeat: no-repeat;
-      background-size: 0% 2px;
-      transition: background-size 0.8s ease;
-      padding-bottom: 2px;
-    }
-    .career-statement:hover .career-highlight {
-      background-size: 100% 2px;
-    }
-  </style>
-  <p class="career-statement">
-    I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
-    <span class="career-highlight">research positions within industry</span>.
-  </p>
-</div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var el = document.getElementById("career-container");
-    el.style.animation = "fadeInOnly 0.6s ease-out forwards";
   });
 </script>
+
 
 
 Hi, 
