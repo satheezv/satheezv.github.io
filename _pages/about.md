@@ -7,31 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-<div id="career-container" 
-     style="text-align:center; 
-            padding: 0.5rem 1rem; 
-            background: #03133cff; 
-            color: #f18188ff; 
-            font-family: system-ui, sans-serif; 
-            border-radius: 12px; 
-            opacity:0; 
-            transform: translateY(12px);
-            max-width: 500px; 
-            margin: 0.5rem auto;">
+<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
   <style>
-    @keyframes fadeInScale {
-      from {
-        opacity: 0;
-        transform: scale(0.9);
-      }
-      to {
-        opacity: 1;
-        transform: scale(1);
-      }
-    }
+  @keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.2);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
     .career-statement {
-      font-size: 1rem;
-      margin: 0; /* remove extra top/bottom margins */
+      font-size: 1.1rem;
+      max-width: 700px;
+      margin: 0 auto;
     }
     .career-highlight {
       background-image: linear-gradient(currentColor, currentColor);
@@ -47,8 +38,7 @@ redirect_from:
   </style>
   <p class="career-statement">
     I am actively seeking <span class="career-highlight">tenure-track opportunities in academia</span> as well as 
-    <span class="career-highlight">research positions within industry</span>.
-  </p>
+    <span class="career-highlight">research positions within industry</span>.</p>
 </div>
 
 <script>
@@ -59,8 +49,6 @@ redirect_from:
     }
   });
 </script>
-
-
 
 
 
