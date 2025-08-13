@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div id="career-container" style="text-align:center; padding: 1.5rem; background: #0b0d12; color: #e9edf5; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
+<div id="career-container" style="text-align:center; padding: 1.5rem; background: #b8c7ecff; color: #ef0909ff; font-family: system-ui, sans-serif; border-radius: 12px; opacity:0; transform: translateY(12px);">
   <style>
   @keyframes fadeInScale {
   from {
