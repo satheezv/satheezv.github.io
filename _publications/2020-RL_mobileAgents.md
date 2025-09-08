@@ -7,7 +7,7 @@ excerpt: 'In this work, the Markov Decision Process (MDP) path planning problem 
 date: 2020-12-03
 venue: '2020 IEEE 4th Conference on Information & Communication Technology (CICT)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/9311923'
 citation: 'Veeramani, Satheeshkumar, and Sreekumar Muthuswamy. "Reinforcement learning based path planning of the mobile agents with constrained locomotion for the material handling applications." 2020 IEEE 4th Conference on Information & Communication Technology (CICT). IEEE, 2020.'
 ---
 
