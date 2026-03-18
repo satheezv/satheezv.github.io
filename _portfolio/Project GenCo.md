@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Project GenCo (2025)"
+excerpt: "GenCo: a Generate-Correct LVLM framework for adaptive peg-in-hole robotics.<br/><img src='/images/GenCo/GA.jpg'>"
+collection: portfolio
 permalink: /projects/GenCo
 author_profile: true
 redirect_from:
