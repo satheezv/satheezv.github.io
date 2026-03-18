@@ -27,7 +27,6 @@ redirect_from:
   <img src="/images/LIRA/fig1.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
-
 <!-- Video Frame -->
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Localization Module</h3>
@@ -39,13 +38,7 @@ redirect_from:
   <img src="/images/LIRA/fig4_3.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
-
-
-
-
 <!-- Page Visits -->
 <div style="display: flex; justify-content: center; margin-top: 1em;">
   <a href="https://hits.sh/satheezv.github.io/projects/LIRA"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits"/></a>
-</div> 
-
-<!-- https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits -->
+</div>

@@ -48,23 +48,7 @@ Zhengxue Zhou<sup>1</sup>, <strong>Satheeshkumar Veeramani</strong><sup>1</sup>,
   <img src="/images/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
 </div>
 
-<div style="margin-top: 2em;">
-  <h3>Video Demonstration - IBM 1</h3>
-    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQRA2EldDddMR6gSuMR1E8RGAfxkj_ZP6DO44FB_ac1o1W8" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-<div style="margin-top: 2em;">
-  <h3>Video Demonstration - IBM 2</h3>
-    <iframe src="https://1drv.ms/v/c/cf51dbc58b2a1fcd/IQT5sb8jj-cBRZsGuOdcQqqOAevDWoG_GYFX7L3UR_JUPe4" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
- -->
-
-
-
-
 <!-- Page Visits -->
 <div style="display: flex; justify-content: center; margin-top: 1em;">
   <a href="https://hits.sh/satheezv.github.io/projects/GenCo"><img alt="Hits" src="https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits"/></a>
-</div> 
-
-<!-- https://hits.sh/satheezv.github.io.svg?style=plastic&label=Page%20Visits -->
+</div>
