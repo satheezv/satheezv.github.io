@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/HARB
 excerpt: ' we present an initial study of an embodied, AI-driven perception method that facilitates proactive human-robot interaction in shared-access scenarios. Our method features a hierarchical human intention prediction model that allows the robot to distinguish between preparatory actions (waiting) and transient interactions (accessing the instrument). '
 date: 2026-03-16
-venue: 'The ACM/IEEE International Conference on Human-Robot Interaction'
+venue: "The ACM/IEEE International Conference on Human-Robot Interaction (HRI '26), Edinburgh, Scotland, UK"
 paperurl: 'https://doi.org/10.1145/3776734.3794402'
 citation: 'Satheeshkumar Veeramani, Anna Kisil, Abigail Bentley, Hatem Fakhruldeen, Gabriella Pizzuto, and Andrew I. Cooper. 2026. Human-Aware Robot Behaviour in Self-Driving Labs. In Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction (HRI Companion ''26). Association for Computing Machinery, New York, NY, USA, 292–296.'
 ---

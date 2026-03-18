@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/MATTERIX
 excerpt: 'MATTERIX introduces a digital-twin framework for robotics-assisted chemistry laboratory automation, integrating simulation, experiment and data-driven models to accelerate and robustly manage automated workflows.'
-date: 2025-12-31
+date: 2026-01-01
 venue: 'Nature Computational Science'
 paperurl: 'https://doi.org/10.1038/s43588-025-00924-4'
 citation: 'Darvish, K., Sohal, A., Mandal, A., Fakhruldeen, H., Radulov, N., Zhou, Z., Veeramani, S., ... & Cooper, A. I. (2025). MATTERIX: toward a digital twin for robotics-assisted chemistry laboratory automation. Nature Computational Science 6, 67–82. doi:10.1038/s43588-025-00924-4'
