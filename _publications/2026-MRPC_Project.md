@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/MRPC
 excerpt: ' We have built an automated process chemistry platform that tackles late-stage process development. The modular workflow integrates both industry-standard tools and bespoke devices to enable process scale synthesis, work-up, and analysis. A multitasking mobile robot works between an automated synthesis reactor and an ultra-high-performance liquid chromatography-mass spectrometer (UHPLC-MS) for product analysis, cleaning the reactor between runs.'
-date: 2025-07-20
+date: 2026-03-02
 venue: 'Digital Discovery'
 paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00563a'
 citation: 'Brass, E. J., Veeramani, S., Zhou, Z., Fakhruldeen, H., Manzano, J. S., Clowes, R., ... & Cooper, A. I. (2026). A mobile robotic process chemist. <em>Digital Discovery</em>.'
