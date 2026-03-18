@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/RL_BPP
 excerpt: 'In this work, the Markov Decision Process (MDP) path planning problem of SaD agent is solved using two Reinforcement Learning (RL) based dynamic programming methods viz Policy Iteration (PI), and Value Iteration (VI).'
 date: 2020-12-03
-venue: '2020 IEEE 4th Conference on Information & Communication Technology (CICT)'
+venue: '2020 IEEE 4th Conference on Information & Communication Technology (CICT), Chennai, India'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/9311923'
 citation: 'Veeramani, Satheeshkumar, and Sreekumar Muthuswamy. "Reinforcement learning based path planning of the mobile agents with constrained locomotion for the material handling applications." 2020 IEEE 4th Conference on Information & Communication Technology (CICT). IEEE, 2020.'
