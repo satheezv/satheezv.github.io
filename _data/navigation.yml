@@ -12,20 +12,20 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Updates"
-    url: /year-archive/
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Updates"
+    url: /year-archive/
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /projects/
     
     
   # - title: "Portfolio"
