@@ -5,7 +5,7 @@ category: conferences
 permalink: "https://doi.org/10.1007/978-3-030-20131-9_221"
 excerpt: 'In this work, an artificial intelligence technique developed based on Markov Decision Process (MDP) is implemented for the task of multi-head based fixturing suitable for operations such as drilling, milling etc.'
 date: 2019-06-14
-venue: 'IFToMM WC 2019. Mechanisms and Machine Science'
+venue: 'IFToMM WC 2019. Mechanisms and Machine Science, Krakow, Poland'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-20131-9_221'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
