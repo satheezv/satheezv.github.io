@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "MRPC - Industry project"
-excerpt: "The Mobile Robotic Process Chemist
+excerpt: "The Mobile Robotic Process Chemist. <br/><img src='/images/projects/MRPC.png'>"
 collection: portfolio
-teaser: images/projects/MRPC.png
+teaser: /images/projects/MRPC.png
 permalink: /projects/MRPC
 author_profile: true
 ---

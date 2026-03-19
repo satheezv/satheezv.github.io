@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Project MATTERIX"
-excerpt: "MATTERIX: toward a digital twin for robotics-assisted chemistry laboratory automation"
+excerpt: "MATTERIX: toward a digital twin for robotics-assisted chemistry laboratory automation. <br/><img src='/images/projects/Matterix.png'>"
 collection: portfolio
-teaser: images/projects/Matterix.png
+teaser: /images/projects/Matterix.png
 permalink: /projects/MATTERIX
 author_profile: true
 ---
