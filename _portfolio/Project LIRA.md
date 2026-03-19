@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Project LIRA (2025)"
+title: "Project LIRA"
 excerpt: "LIRA: Localization, Inspection, and Reasoning module for autonomous workflows.<br/><img src='/images/projects/LIRA/fig1.png'>"
 collection: portfolio
 teaser: /images/projects/LIRA/fig1.png

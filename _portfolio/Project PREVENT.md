@@ -1,6 +1,6 @@
 ---
 # layout: archive
-title: "Project PREVENT (2025)"
+title: "Project PREVENT"
 excerpt: "PREVENT: proactive risk evaluation and vigilant execution for mobile robotic chemists.<br/><img src='/images/projects/PREVENT/SA.png'>"
 collection: portfolio
 teaser: /images/projects/PREVENT/SA.png
