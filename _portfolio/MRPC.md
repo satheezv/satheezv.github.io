@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "The Mobile Robotic Process Chemist"
-excerpt: 'An automated process chemistry platform integrating a multitasking mobile robot with synthesis and UHPLC-MS analysis for late-stage process development and high-throughput experimentation.'
+title: "MRPC - Industry project"
+excerpt: "The Mobile Robotic Process Chemist
 collection: portfolio
-teaser: projects/MRPC.png
+teaser: images/projects/MRPC.png
 permalink: /projects/MRPC
 author_profile: true
 ---

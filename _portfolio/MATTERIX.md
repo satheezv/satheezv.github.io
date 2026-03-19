@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "MATTERIX: toward a digital twin for robotics-assisted chemistry laboratory automation"
-excerpt: 'MATTERIX introduces a digital-twin framework that couples simulation, sensing and data-driven models to enable robust planning and execution for robotics-assisted chemistry laboratory automation.'
+title: "Project MATTERIX"
+excerpt: "MATTERIX: toward a digital twin for robotics-assisted chemistry laboratory automation"
 collection: portfolio
-teaser: projects/Matterix.png
+teaser: images/projects/Matterix.png
 permalink: /projects/MATTERIX
 author_profile: true
 ---
