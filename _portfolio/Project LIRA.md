@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Project LIRA (2025)"
-excerpt: "LIRA: Localization, Inspection, and Reasoning module for autonomous workflows.<br/><img src='/images/LIRA/fig1.png'>"
+excerpt: "LIRA: Localization, Inspection, and Reasoning module for autonomous workflows.<br/><img src='/images/projects/LIRA/fig1.png'>"
 collection: portfolio
-teaser: /images/LIRA/fig1.png
+teaser: /images/projects/LIRA/fig1.png
 permalink: /projects/LIRA
 author_profile: true
 redirect_from:
@@ -27,18 +27,18 @@ redirect_from:
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Graphical Abstract</h3>
-  <img src="/images/LIRA/fig1.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/images/projects/LIRA/fig1.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 <!-- Video Frame -->
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Localization Module</h3>
-  <img src="/images/LIRA/fig3.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/images/projects/LIRA/fig3.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Inspection and Reasoning Module</h3>
-  <img src="/images/LIRA/fig4_3.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/images/projects/LIRA/fig4_3.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 <!-- Page Visits -->

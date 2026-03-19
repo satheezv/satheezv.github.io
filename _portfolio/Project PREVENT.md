@@ -1,9 +1,9 @@
 ---
 # layout: archive
 title: "Project PREVENT (2025)"
-excerpt: "PREVENT: proactive risk evaluation and vigilant execution for mobile robotic chemists.<br/><img src='/images/PREVENT/SA.png'>"
+excerpt: "PREVENT: proactive risk evaluation and vigilant execution for mobile robotic chemists.<br/><img src='/images/projects/PREVENT/SA.png'>"
 collection: portfolio
-teaser: /images/PREVENT/SA.png
+teaser: /images/projects/PREVENT/SA.png
 permalink: /projects/PREVENT
 author_profile: true
 redirect_from:
@@ -27,13 +27,13 @@ redirect_from:
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Graphical Abstract</h3>
-  <img src="/images/PREVENT/SA.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/images/projects/PREVENT/SA.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 <!-- Video Frame -->
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Coordinated Inspection and Navigation (CIN) Skill</h3>
-  <img src="/images/PREVENT/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
+  <img src="/images/projects/PREVENT/CIN.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="margin-top: 2em;">

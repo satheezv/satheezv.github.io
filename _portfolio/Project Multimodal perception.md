@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Project MMP (2025)"
-excerpt: "Multimodal behaviour trees for robotic lab task automation.<br/><img src='/images/MMP/GA.jpg'>"
+excerpt: "Multimodal behaviour trees for robotic lab task automation.<br/><img src='/images/projects/MMP/GA.jpg'>"
 collection: portfolio
-teaser: /images/MMP/GA.jpg
+teaser: /images/projects/MMP/GA.jpg
 permalink: /projects/MMP
 author_profile: true
 redirect_from:
@@ -29,7 +29,7 @@ Hatem Fakhruldeen<sup>1,#</sup>, <strong>Satheeshkumar Veeramani</strong><sup>1,
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Graphical Abstract</h3>
-  <img src="/images/MMP/GA.jpg" alt="" style="max-width: 100%; height: auto;">
+  <img src="/images/projects/MMP/GA.jpg" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 <div style="margin-top: 2em;">

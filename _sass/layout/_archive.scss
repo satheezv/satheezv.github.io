@@ -27,6 +27,22 @@
   }
 }
 
+/* Hover animations for grid cards: subtle lift, zoom and shadow */
+.grid__item .archive__item {
+  transition: transform 240ms ease, box-shadow 240ms ease;
+  will-change: transform;
+}
+.grid__item .archive__item:hover {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.20);
+}
+.grid__item .archive__item-teaser img {
+  transition: transform 320ms ease;
+}
+.grid__item .archive__item:hover .archive__item-teaser img {
+  transform: scale(1.06);
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;

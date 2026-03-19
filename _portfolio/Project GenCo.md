@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Project GenCo (2025)"
-excerpt: "GenCo: a Generate-Correct LVLM framework for adaptive peg-in-hole robotics.<br/><img src='/images/GenCo/GA.jpg'>"
+excerpt: "GenCo: a Generate-Correct LVLM framework for adaptive peg-in-hole robotics.<br/><img src='/images/projects/GenCo/GA.jpg'>"
 collection: portfolio
-teaser: /images/GenCo/GA.jpg
+teaser: /images/projects/GenCo/GA.jpg
 permalink: /projects/GenCo
 author_profile: true
 redirect_from:
@@ -26,14 +26,14 @@ Zhengxue Zhou<sup>1</sup>, <strong>Satheeshkumar Veeramani</strong><sup>1</sup>,
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Graphical Abstract</h3>
-  <img src="/images/GenCo/GA.jpg" alt="" style="max-width: 100%; height: auto;">
+  <img src="/images/projects/GenCo/GA.jpg" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 
 <!-- Video Frame -->
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Proposed Approach</h3>
-  <img src="/images/GenCo/GA.png" alt="Behavior Tree for Safe Navigation" style="max-width: 70%; height: auto;">
+  <img src="/images/projects/GenCo/GA.png" alt="Behavior Tree for Safe Navigation" style="max-width: 70%; height: auto;">
 </div>
 
 <!-- <div style="margin-top: 2em;">
@@ -48,7 +48,7 @@ Zhengxue Zhou<sup>1</sup>, <strong>Satheeshkumar Veeramani</strong><sup>1</sup>,
 
 <div style="text-align: center; margin-top: 2em;">
   <h3>Figure: Inspection Before Manipulation (IBM) Skill</h3>
-  <img src="/images/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
+  <img src="/images/projects/PREVENT/IBM.png" alt="Behavior Tree for Safe Navigation" style="max-width: 100%; height: auto;">
 </div>
 
 <!-- Page Visits -->
