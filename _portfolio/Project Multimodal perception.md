@@ -3,6 +3,7 @@ layout: archive
 title: "Project MMP (2025)"
 excerpt: "Multimodal behaviour trees for robotic lab task automation.<br/><img src='/images/MMP/GA.jpg'>"
 collection: portfolio
+teaser: /images/MMP/GA.jpg
 permalink: /projects/MMP
 author_profile: true
 redirect_from:

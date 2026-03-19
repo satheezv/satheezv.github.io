@@ -3,6 +3,7 @@
 title: "Project PREVENT (2025)"
 excerpt: "PREVENT: proactive risk evaluation and vigilant execution for mobile robotic chemists.<br/><img src='/images/PREVENT/SA.png'>"
 collection: portfolio
+teaser: /images/PREVENT/SA.png
 permalink: /projects/PREVENT
 author_profile: true
 redirect_from:

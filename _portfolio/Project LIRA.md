@@ -3,6 +3,7 @@ layout: archive
 title: "Project LIRA (2025)"
 excerpt: "LIRA: Localization, Inspection, and Reasoning module for autonomous workflows.<br/><img src='/images/LIRA/fig1.png'>"
 collection: portfolio
+teaser: /images/LIRA/fig1.png
 permalink: /projects/LIRA
 author_profile: true
 redirect_from:
