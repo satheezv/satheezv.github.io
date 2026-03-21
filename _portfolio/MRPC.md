@@ -14,6 +14,9 @@ The Mobile Robotic Process Chemist project demonstrates an automated process che
 
 <div class="video-grid">
 	<div class="video-item" style="text-align:center;">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/x4Lhopqy7n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="video-item" style="text-align:center; margin-top:1rem;">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/XdxzEjBgC0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="video-item" style="text-align:center; margin-top:1rem;">
